@@ -17,7 +17,7 @@ class Song
   @@genre_count = {}
   
   
-  @@artists = []
+
   
 
   
