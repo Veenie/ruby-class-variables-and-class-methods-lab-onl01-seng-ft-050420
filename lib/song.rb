@@ -48,5 +48,3 @@ class Song
     @@artists.inject(Hash.new(0)) { |total, i| total[i] += 1 ;total}
   end
 end
-  
-end
