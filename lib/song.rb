@@ -12,11 +12,6 @@ class Song
     @@genres.uniq
   end
   
-  @@genre_count = {}
-  
-  def self.genre_count
-    
-  
   @@artists = []
   
   def self.artists
