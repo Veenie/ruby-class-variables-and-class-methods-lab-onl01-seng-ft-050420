@@ -5,5 +5,5 @@ class Song
   attr_accessor :name, :artist, :genre
  
   def initialize(title)
-    @title = title
+    @count 
   end
