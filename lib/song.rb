@@ -12,6 +12,8 @@ class Song
     @@genres.uniq
   end
   
+  
+  
   @@genre_count = {}
   
   
