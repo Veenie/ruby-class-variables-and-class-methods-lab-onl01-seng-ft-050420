@@ -8,6 +8,8 @@ class Song
   
   @@genres = []
   
+  
+  
   @@artists = []
   
   @@genre_count = {}
